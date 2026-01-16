@@ -9,4 +9,4 @@ A simple personal website built with **HTML, CSS, and JavaScript** to showcase m
 - JavaScript
 
 
-**Siddhartha Chauhan**
+
