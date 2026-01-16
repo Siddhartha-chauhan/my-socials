@@ -1,4 +1,4 @@
-# My Socials
+# Portfolio Website
 
 A simple personal website built with **HTML, CSS, and JavaScript** to showcase my profile and resume.
 
